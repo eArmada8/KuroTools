@@ -76,7 +76,7 @@
             "ulong33": "ulong"
 		}
 	},
-	"NISA_PC": {
+	"NISA_PC_Ys_X": {
 		"game": "Ys_X",
 		"schema": {
             "id": "uint",
@@ -144,6 +144,52 @@
 					"value": "uint"
 				}
 			}
+		}
+	},
+	"FALCOM_PC_SORA2": {
+		"game": "Sora2",
+		"schema": {
+			"id1": "toffset",
+			"id2": "toffset",
+			"ushort1": "ushort",
+			"uint1": "uint",
+			"ushort2": "ushort",
+			"arr1": "u16array",
+			"uint2": "uint",
+			"arr2": "u16array",
+			"fish_id_1": "uint",
+			"fish_1_int1": "uint",
+			"fish_1_int2": "uint",
+			"fish_1_int3": "uint",
+			"fish_id_2": "uint",
+			"fish_2_int1": "uint",
+			"fish_2_int2": "uint",
+			"fish_2_int3": "uint",
+			"fish_id_3": "uint",
+			"fish_3_int1": "uint",
+			"fish_3_int2": "uint",
+			"fish_3_int3": "uint",
+			"fish_id_4": "uint",
+			"fish_4_int1": "uint",
+			"fish_4_int2": "uint",
+			"fish_4_int3": "uint",
+			"fish_id_5": "uint",
+			"fish_5_int1": "uint",
+			"fish_5_int2": "uint",
+			"fish_5_int3": "uint",
+			"fish_id_6": "uint",
+			"fish_6_int1": "uint",
+			"fish_6_int2": "uint",
+			"fish_6_int3": "uint",
+			"fish_id_7": "uint",
+			"fish_7_int1": "uint",
+			"fish_7_int2": "uint",
+			"fish_7_int3": "uint",
+			"fish_id_8": "uint",
+			"fish_8_int1": "uint",
+			"fish_8_int2": "uint",
+			"fish_8_int3": "uint",
+			"int1": "uint"
 		}
 	}
 }

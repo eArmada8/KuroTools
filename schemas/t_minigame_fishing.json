@@ -10,7 +10,9 @@
 		"FishParam",
 		"EtcItemParam",
 		"FishingChara",
-		"FishingGearInfo"
+		"FishingGearInfo",
+		"FishingRodInfo",
+		"OutItemList"
 	]
 }
 
