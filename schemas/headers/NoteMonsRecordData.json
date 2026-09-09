@@ -20,5 +20,17 @@
 			"text2": "toffset",
 			"text3": "toffset"
 		}
+	},
+	"FALCOM_PC2": {
+		"game": "Sora2",
+		"schema": {
+			"text1": "toffset",
+			"int1": "uint",
+			"int2": "uint",
+			"array1": "u16array",
+			"region": "int",
+			"text2": "toffset",
+			"text3": "toffset"
+		}
 	}
 }

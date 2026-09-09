@@ -5,5 +5,11 @@
 			"text": "toffset",
 			"value": "long"
 		}
+	},
+	"FALCOM_PC" :{
+		"game": "Sora2",
+		"schema": {
+			"long1": "long"
+		}
 	}
 }

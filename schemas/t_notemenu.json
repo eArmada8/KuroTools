@@ -7,6 +7,7 @@
 		"NoteMonsAreaMenu",
 		"NoteMonsSpotMenu",
 		"NoteFishingMenu",
+		"NoteFishingCategory",
 		"NoteGourmetMenu",
 		"NoteGourmetArea",
 		"NoteBooksMenu",
@@ -23,6 +24,7 @@
 		"NoteCookChara",
 		"NoteCookItem",
 		"NoteCookRecipe",
-		"NoteCookBonusChara"
+		"NoteCookBonusChara",
+		"NoteMainPartnerInfo"
 	]
 }
